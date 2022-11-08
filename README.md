@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eldvnv
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html/css/java scrip
+- 🌱 I’m currently learning html/css/java script
 
 <!---
 eldvnv/eldvnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
